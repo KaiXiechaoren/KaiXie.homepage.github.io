@@ -21,11 +21,11 @@ I obtained my master's degree in Electronic Information from Southwest Minzu Uni
 
 My research interests fall into two main areas. The first is evolutionary game theory, in which I have published several papers in leading academic journals. The second is the application of artificial intelligence in power systems, which is also the focus of my doctoral research. In addition, I serve as a reviewer for several academic journals.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+#My research interest includes neural machine translation and computer vision. I have published more #than 100 papers at the top international AI conferences with total <a #href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong>
+#<span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a #href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img #src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
-#🔍 Research interests
--### Ph.D. project-Application of AI in electricity market  
+# 🔍 Research interests
+### Ph.D. project-Application of AI in electricity market 
 
 It is application-oriented, mainly using various AI methods to handle prediction and decision-making problems in the electricity market.
 
@@ -34,7 +34,7 @@ It is application-oriented, mainly using various AI methods to handle prediction
   
 - Trading decision using reinforcement learning and large language models (LLMs)
 
--### The other research interest-Mechanism design for promoting cooperation in evolutionary game theory  
+### The other research interest-Mechanism design for promoting cooperation in evolutionary game theory  
  
 It leans towards theory, mainly using mathematical methods to describe and simulate group games, and is also committed to the research on interpretability based on reinforcement learning.
 
@@ -63,9 +63,13 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.06*  🏆Gold Award, The 6th National College Students' Algorithm Design and Programming Challenge.
+- *2023.06* 🎓Outstanding graduate student, Southwest Minzu University (100 annually).
+- *2023-2020*  🎓First-class Academic Scholarship of the university, Southwest Minzu University (awarded annually).
+- *2022.11*  🎓National Scholarship, The Ministry of Education of the People's Republic of China.
+- - *2022.12* 🥈Bronze Award, The 8th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Guangxi Province Division)
+- *2021.12* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division))
+  
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
