@@ -85,7 +85,62 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 # 💬 Main research cooperator
 
 
-
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="头像URL1.jpg" width="100"/><br/>
+      <strong><a href="#">Daniel Mawunyo Doe</a></strong><br/>
+      2021级硕士毕业生<br/>
+      Graduated Master Student<br/>
+      休斯敦大学博士毕业<br/>
+      Ph.D. in University of Houston<br/>
+      助理教授<br/>
+      Assistant Professor in Prairie View A&M University
+    </td>
+    <td align="center" width="180">
+      <img src="头像URL2.jpg" width="100"/><br/>
+      <strong><a href="#">白玉<br/>Yu Bai</a></strong><br/>
+      2021级硕士毕业生<br/>
+      Graduated Master Student<br/>
+      阿尔托大学在读博士<br/>
+      Ph.D. student in Aalto University
+    </td>
+    <td align="center" width="180">
+      <img src="头像URL3.jpg" width="100"/><br/>
+      <strong><a href="#">庄岩<br/>Yan Zhuang</a></strong><br/>
+      2022级硕士毕业生<br/>
+      Graduated Master Student<br/>
+      电子科技大学在读博士<br/>
+      Ph.D. student in UESTC
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="kaixie.png" width="100"/><br/>
+      <strong><a href="#">张瑞昌<br/>Ruichang Zhang</a></strong><br/>
+      2022级硕士毕业生<br/>
+      Graduated Master Student<br/>
+      英国曼彻斯特大学在读博士<br/>
+      Ph.D. student in University of Manchester
+    </td>
+    <td align="center" width="180">
+      <img src="kaixie.png" width="100"/><br/>
+      <strong><a href="#">李金豪<br/>Jinhao Li</a></strong><br/>
+      2022级本科毕业生<br/>
+      Undergraduate Graduate<br/>
+      曼彻斯特大学在读博士<br/>
+      Ph.D. student in University of Manchester
+    </td>
+    <td align="center" width="180">
+      <img src="kaixie.png" width="100"/><br/>
+      <strong><a href="#">黄承浩<br/>Chenghao Huang</a></strong><br/>
+      2023级硕士毕业生<br/>
+      Graduated Master Student<br/>
+      莫纳什大学在读博士<br/>
+      Ph.D. student in Monash University
+    </td>
+  </tr>
+</table>
 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
