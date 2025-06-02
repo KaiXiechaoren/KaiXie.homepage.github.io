@@ -32,11 +32,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol",in Chaos, Solitons and Fractals, April. 2025. (**Top Journal, CAS Tier 1**)
-
--    *2025.07:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game",in Chaos, Solitons and Fractals, September. 2025.(**Top Journal, CAS Tier 1**)
-  
--  *2025.04:* **Kai Xie**, and Tingjin Liu,  "The regulation of good and evi promotes cooperation in public goods game",in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
+-  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol", in Chaos, Solitons and Fractals, April. 2025. (**Top Journal, CAS Tier 1**)
+-    *2024.09:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game", in Chaos, Solitons and Fractals, September. 2024.(**Top Journal, CAS Tier 1**)
+-  *2024.04:* **Kai Xie**, and Tingjin Liu,  "The regulation of good and evi promotes cooperation in public goods game",in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
+-   *2023.07:*  **Kai Xie**, Xingwen Liu, Huazhang Wang, and Yulian Jiang,  "Multi-heterogeneity public goods evolutionary game on lattice", in Chaos, Solitons and Fractals, July. 2023 (**Top Journal, CAS Tier 1**)
+-   *2022.11:*  **Kai Xie**, Xingwen Liu, Hao Chen and Jun Yang,  "Preferential selection and expected payoff drive cooperation in spatial voluntary public goods game", in Physica A: Statistical Mechanics and its Applications, November. 2022 ( CAS Tier 2)
 
 
 - 
