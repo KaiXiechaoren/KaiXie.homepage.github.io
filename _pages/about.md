@@ -24,15 +24,36 @@ My research interests fall into two main areas. The first is evolutionary game t
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
+# Research interests
+### Ph.D. project-Application of AI in electricity market  
+
+It is application-oriented, mainly using various AI methods to handle prediction and decision-making problems in the electricity market.
+
+**Key topics include:**
+- Time series forecasting for electricity prices
+  
+- Trading decision using reinforcement learning and large language models (LLMs)
+
+### The other research interest-Mechanism design for promoting cooperation in evolutionary game theory  
+ 
+It leans towards theory, mainly using mathematical methods to describe and simulate group games, and is also committed to the research on interpretability based on reinforcement learning.
+
+**Key topics include:**
+- Population-level game simulation and strategy evolution
+  
+- Stability analysis based on control theory
+  
+- Interpretable reinforcement learning models for understanding strategic behavior
+
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Our paper **"Reputation in public goods cooperation under double Q-learning protocol"** has been accepted by Chaos, Solitons and Fractals (🏆 **Top Journal, CAS Tier 1**)
+- *2025.04*: &nbsp;🎉🎉 Our paper **"Reputation in public goods cooperation under double Q-learning protocol"** has been accepted by Chaos, Solitons and Fractals (🏆 **Top Journal, CAS Tier 1**)
 - *2025.04*:  Upon receiving an invitation from the China Association for Science and Technology, the [popular science article](https://mp.weixin.qq.com/s/y5dnzMo3bmut-vQn9TrODA) I wrote was published on the relevant wechat official account.
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 -  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol", in Chaos, Solitons and Fractals, April. 2025. (**Top Journal, CAS Tier 1**)
 -    *2024.09:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game", in Chaos, Solitons and Fractals, September. 2024.(**Top Journal, CAS Tier 1**)
 -  *2024.04:* **Kai Xie**, and Tingjin Liu,  "The regulation of good and evi promotes cooperation in public goods game",in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
@@ -40,20 +61,6 @@ My research interest includes neural machine translation and computer vision. I 
 -   *2022.11:*  **Kai Xie**, Xingwen Liu, Hao Chen and Jun Yang,  "Preferential selection and expected payoff drive cooperation in spatial voluntary public goods game", in Physica A: Statistical Mechanics and its Applications, November. 2022 ( CAS Tier 2)
 
 
-- 
-
-  
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
