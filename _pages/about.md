@@ -88,7 +88,7 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 <table>
   <tr>
     <td align="center" width="180">
-      <img src="(https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/b99ecfc4bb46dacf5f9cc3f1b1d3008a1553f03b/images/Attila.png)" width="100"/><br/>
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/b99ecfc4bb46dacf5f9cc3f1b1d3008a1553f03b/images/Attila.png" width="100"/><br/>
       <strong><a href="#">Attila Szolnoki</a></strong><br/>
       Professor in   Institute Of Technical Physics and Materials Science
 Centre for Energy Researcht<br/>
