@@ -51,8 +51,6 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 
 
 # 📝 Publications 
-
-
 -  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol", in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
 -    *2024.09:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game", in Chaos, Solitons and Fractals, September. 2024.(🏆**Top Journal, CAS Tier 1**)
 -  *2024.04:* **Kai Xie**, and Tingjin Liu,  "The regulation of good and evi promotes cooperation in public goods game",in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
@@ -81,10 +79,14 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 - *2021.12* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division))
   
 # 📖 Educations
-- *2024.09 -  Present, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
-- *2020.09 - 2023.06, Master. in Electronic Information, Southwest Minzu University, Chengdu, China, Supervisor: [Prof. Xingwen Liu](https://cee.swun.edu.cn/info/1119/2760.htm)
+- *2024.09 -  Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
+- *2020.09 - 2023.06*, Master. in Electronic Information, Southwest Minzu University, Chengdu, China, Supervisor: [Prof. Xingwen Liu](https://cee.swun.edu.cn/info/1119/2760.htm)
 
 # 💬 Main research cooperator
+
+
+
+
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
