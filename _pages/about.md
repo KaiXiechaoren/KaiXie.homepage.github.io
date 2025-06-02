@@ -21,8 +21,7 @@ I obtained my master's degree in Electronic Information from Southwest Minzu Uni
 
 My research interests fall into two main areas. The first is evolutionary game theory, in which I have published several papers in leading academic journals. The second is the application of artificial intelligence in power systems, which is also the focus of my doctoral research. In addition, I serve as a reviewer for several academic journals.
 
-#My research interest includes neural machine translation and computer vision. I have published more #than 100 papers at the top international AI conferences with total <a #href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong>
-#<span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a #href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img #src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 
 # 🔍 Research interests
 ### Ph.D. project-Application of AI in electricity market 
@@ -60,6 +59,17 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 -   *2023.07:*  **Kai Xie**, Xingwen Liu, Huazhang Wang, and Yulian Jiang,  "Multi-heterogeneity public goods evolutionary game on lattice", in Chaos, Solitons and Fractals, July. 2023 (🏆**Top Journal, CAS Tier 1**)
 -   *2022.11:*  **Kai Xie**, Xingwen Liu, Hao Chen and Jun Yang,  "Preferential selection and expected payoff drive cooperation in spatial voluntary public goods game", in Physica A: Statistical Mechanics and its Applications, November. 2022 (CAS Tier 2)
 
+# 📄 Reviewer 
+- IEEE Transactions on Systems, Man and Cybernetics: Systems (JCR:Q1, CAS Tier 1)
+	- Chaos, Solitons and Fractals  (JCR:Q1, CAS Tier 1)
+	- Chaos  (JCR:Q1, CAS Tier 2)
+	- Applied Mathematics and Computation  (JCR:Q1, CAS Tier 2)
+- 	Nonlinear Dynamics  (JCR:Q1, CAS Tier 2)
+	- Physica A-Statistical Mechanics and Its Applications  (JCR:Q2, CAS Tier 2)
+- Physics Letters A  (JCR:Q2, CAS Tier 3)
+- 	Frontiers in Sustainable Food Systems, section Agricultural and Food Economics  (JCR:Q2, CAS Tier 3)
+- 	Scientific Reports  (JCR:Q2, CAS Tier 3)
+- 	Current Neuropharmacology (JCR:Q2, CAS Tier 3)
 
 
 # 🎖 Honors and Awards
@@ -71,8 +81,8 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 - *2021.12* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division))
   
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 -  Present, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
+- *2020.09 - 2023.06, Master. in Electronic Information, Southwest Minzu University, Chengdu, China, Supervisor: [Prof. Xingwen Liu]([https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en](https://cee.swun.edu.cn/info/1119/2760.htm))
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
