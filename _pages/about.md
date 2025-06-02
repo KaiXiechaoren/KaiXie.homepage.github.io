@@ -24,8 +24,8 @@ My research interests fall into two main areas. The first is evolutionary game t
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# Research interests
-### Ph.D. project-Application of AI in electricity market  
+#🔍 Research interests
+-### Ph.D. project-Application of AI in electricity market  
 
 It is application-oriented, mainly using various AI methods to handle prediction and decision-making problems in the electricity market.
 
@@ -34,7 +34,7 @@ It is application-oriented, mainly using various AI methods to handle prediction
   
 - Trading decision using reinforcement learning and large language models (LLMs)
 
-### The other research interest-Mechanism design for promoting cooperation in evolutionary game theory  
+-### The other research interest-Mechanism design for promoting cooperation in evolutionary game theory  
  
 It leans towards theory, mainly using mathematical methods to describe and simulate group games, and is also committed to the research on interpretability based on reinforcement learning.
 
@@ -54,11 +54,11 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 # 📝 Publications 
 
 
--  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol", in Chaos, Solitons and Fractals, April. 2025. (**Top Journal, CAS Tier 1**)
--    *2024.09:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game", in Chaos, Solitons and Fractals, September. 2024.(**Top Journal, CAS Tier 1**)
+-  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol", in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
+-    *2024.09:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game", in Chaos, Solitons and Fractals, September. 2024.(🏆**Top Journal, CAS Tier 1**)
 -  *2024.04:* **Kai Xie**, and Tingjin Liu,  "The regulation of good and evi promotes cooperation in public goods game",in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
--   *2023.07:*  **Kai Xie**, Xingwen Liu, Huazhang Wang, and Yulian Jiang,  "Multi-heterogeneity public goods evolutionary game on lattice", in Chaos, Solitons and Fractals, July. 2023 (**Top Journal, CAS Tier 1**)
--   *2022.11:*  **Kai Xie**, Xingwen Liu, Hao Chen and Jun Yang,  "Preferential selection and expected payoff drive cooperation in spatial voluntary public goods game", in Physica A: Statistical Mechanics and its Applications, November. 2022 ( CAS Tier 2)
+-   *2023.07:*  **Kai Xie**, Xingwen Liu, Huazhang Wang, and Yulian Jiang,  "Multi-heterogeneity public goods evolutionary game on lattice", in Chaos, Solitons and Fractals, July. 2023 (🏆**Top Journal, CAS Tier 1**)
+-   *2022.11:*  **Kai Xie**, Xingwen Liu, Hao Chen and Jun Yang,  "Preferential selection and expected payoff drive cooperation in spatial voluntary public goods game", in Physica A: Statistical Mechanics and its Applications, November. 2022 (CAS Tier 2)
 
 
 
