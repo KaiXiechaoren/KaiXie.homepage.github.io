@@ -84,41 +84,38 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 
 # 💬 Main research cooperator
 
-<table style="border-collapse: separate; border-spacing: 20px;">
+<table style="border-collapse: separate; border-spacing: 20px; margin: 0 auto;">
   <tr>
     <!-- Attila Szolnoki -->
-    <td align="center" style="width: 300px; vertical-align: top;">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/b99ecfc4bb46dacf5f9cc3f1b1d3008a1553f03b/images/Attila.png" width="100" style="border-radius: 50%;"/><br/>
-      <strong><a href="#">Attila Szolnoki</a></strong><br/>
-      Professor, Institute of Technical Physics and Materials Science,<br/>
-      Centre for Energy Research<br/>
-      Research directions: Evolutionary games, complex networks, nonlinear dynamics
+    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/b99ecfc4bb46dacf5f9cc3f1b1d3008a1553f03b/images/Attila.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Attila Szolnoki</a></strong><br/>
+      <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science,<br/>
+      Centre for Energy Research</span><br/>
+      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Evolutionary games, complex networks, nonlinear dynamics</span>
     </td>
     <!-- Xingwen Liu -->
-    <td align="center" style="width: 300px; vertical-align: top;">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/7b289899c24ad28377930c29685e8a4b1dba417c/images/Xingwen%20Liu.png" width="100" style="border-radius: 50%;"/><br/>
-      <strong><a href="#">Xingwen Liu</a></strong><br/>
-      Professor, Southwest Minzu University<br/>
-      Research directions: Complex systems, multi-agent systems,<br/>
-      intelligent control, robust control, and games
+    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/7b289899c24ad28377930c29685e8a4b1dba417c/images/Xingwen%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Xingwen Liu</a></strong><br/>
+      <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University</span><br/>
+      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
     </td>
   </tr>
   <tr>
     <!-- Tingjin Liu -->
-    <td align="center" style="width: 300px; vertical-align: top;">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png" width="100" style="border-radius: 50%;"/><Yaojun Liu -->
-      <strong><a href="#">Tingjin Liu</a></strong><br/>
-      Ph.D. student, Dalian University of Technology<br/>
-      Research directions: Complex systems, multi-agent systems,<br/>
-      intelligent control, robust control, and games
+    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Tingjin Liu</a></strong><br/>
+      <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
+      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
     </td>
     <!-- Yaojun Liu -->
-    <td align="center" style="width: 300px; vertical-align: top;">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/main/images/kaixie.png" width="100" style="border-radius: 50%;"/><br/>
-      <strong><a href="#">Yaojun Liu</a></strong><br/>
-      Ph.D. student, Dalian University of Technology<br/>
-      Research directions: Complex systems, multi-agent systems,<br/>
-      intelligent control, robust control, and games
+    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/main/images/kaixie.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
+      <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
+      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
     </td>
   </tr>
 </table>
