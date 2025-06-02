@@ -32,8 +32,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--  *2025.04:* **Kai Xie**, Szolnoki A, et al. "Reputation in public goods cooperation under double Q-learning protocol",in Chaos, Solitons 
-and Fractals, April.2025. (**Top Journal, CAS Tier 1**)
+-  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol",in Chaos, Solitons and Fractals, April. 2025. (**Top Journal, CAS Tier 1**)
+
+-    *2025.07:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game",in Chaos, Solitons and Fractals, September. 2025.(**Top Journal, CAS Tier 1**)
+  
+-  *2025.04:* **Kai Xie**, and Tingjin Liu,  "The regulation of good and evi promotes cooperation in public goods game",in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
+
+
+- 
+
+  
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
