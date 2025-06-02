@@ -51,11 +51,11 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 
 
 # 📝 Publications 
--  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  "Reputation in public goods cooperation under double Q-learning protocol", in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
--    *2024.09:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  "Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game", in Chaos, Solitons and Fractals, September. 2024.(🏆**Top Journal, CAS Tier 1**)
--  *2024.04:* **Kai Xie**, and Tingjin Liu,  "The regulation of good and evi promotes cooperation in public goods game",in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
--   *2023.07:*  **Kai Xie**, Xingwen Liu, Huazhang Wang, and Yulian Jiang,  "Multi-heterogeneity public goods evolutionary game on lattice", in Chaos, Solitons and Fractals, July. 2023 (🏆**Top Journal, CAS Tier 1**)
--   *2022.11:*  **Kai Xie**, Xingwen Liu, Hao Chen and Jun Yang,  "Preferential selection and expected payoff drive cooperation in spatial voluntary public goods game", in Physica A: Statistical Mechanics and its Applications, November. 2022 (CAS Tier 2)
+-  *2025.04:*  **Kai Xie**, and Attila Szolnoki,  ["Reputation in public goods cooperation under double Q-learning protocol"](https://www.sciencedirect.com/science/article/pii/S0960077925004114), in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
+-    *2024.09:* **Kai Xie**, Yaojun Liu, and Tingjin Liu,  ["Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game"](https://www.sciencedirect.com/science/article/pii/S0960077924007860), in Chaos, Solitons and Fractals, September. 2024.(🏆**Top Journal, CAS Tier 1**)
+-  *2024.04:* **Kai Xie**, and Tingjin Liu,  ["The regulation of good and evi promotes cooperation in public goods game"](https://www.sciencedirect.com/science/article/pii/S0096300324003059),in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
+-   *2023.07:*  **Kai Xie**, Xingwen Liu, Huazhang Wang, and Yulian Jiang,  ["Multi-heterogeneity public goods evolutionary game on lattice"](https://www.sciencedirect.com/science/article/pii/S0960077923004630), in Chaos, Solitons and Fractals, July. 2023 (🏆**Top Journal, CAS Tier 1**)
+-   *2022.11:*  **Kai Xie**, Xingwen Liu, Hao Chen and Jun Yang,  ["Preferential selection and expected payoff drive cooperation in spatial voluntary public goods game"](https://www.sciencedirect.com/science/article/pii/S0378437122006197), in Physica A: Statistical Mechanics and its Applications, November. 2022 (CAS Tier 2)
 
 # 📄 Reviewer 
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (JCR:Q1, CAS Tier 1)
