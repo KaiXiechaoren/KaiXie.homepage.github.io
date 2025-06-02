@@ -87,14 +87,14 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 <table>
   <tr>
     <!-- Attila Szolnoki -->
-    <td align="center" width="250">
+    <td align="center" width=400">
       <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/b99ecfc4bb46dacf5f9cc3f1b1d3008a1553f03b/images/Attila.png?raw=true" width="100"/><br/>
       <strong><a href="#">Attila Szolnoki</a></strong><br/>
       Professor, Institute of Technical Physics and Materials Science,<br/>
       Centre for Energy Research<br/>
       Research directions: Evolutionary games, complex networks, nonlinear dynamics
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/7b289899c24ad28377930c29685e8a4b1dba417c/images/Xingwen%20Liu.png?raw=true" width="100"/><br/>
       <strong><a href="#">Xingwen Liu</a></strong><br/>
       Professor, Southwest Minzu University<br/>
@@ -104,14 +104,14 @@ It leans towards theory, mainly using mathematical methods to describe and simul
   </tr>
   <tr>
     <!-- Tingjin Liu -->
-    <td align="center" width="250">
+    <td align="center" width="400">
       <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png?raw=true" width="100"/><br/>
       <strong><a href="#">Tingjin Liu</a></strong><br/>
       Ph.D. student, Dalian University of Technology<br/>
       Research directions: Complex systems, multi-agent systems,<br/>
       intelligent control, robust control, and games
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <img src="kaixie.png" width="100"/><br/>
       <strong><a href="#">Yaojun Liu</a></strong><br/>
       Ph.D. student, Dalian University of Technology<br/>
