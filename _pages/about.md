@@ -84,39 +84,6 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 
 # 💬 Main research cooperator
 
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/b99ecfc4bb46dacf5f9cc3f1b1d3008a1553f03b/images/Attila.png" width="100"/><br/>
-      <strong><a href="#">Attila Szolnoki</a></strong><br/>
-      Professor in   Institute Of Technical Physics and Materials Science
-Centre for Energy Researcht<br/>
-      Research directions: Evolutionary games, complex networks, nonlinear dynamics<br/>
-    </td>
-     </tr>
-  <tr>
-    <td align="center" width="180">
-      <img src="Liu.png]https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/7b289899c24ad28377930c29685e8a4b1dba417c/images/Xingwen%20Liu.png" width="100"/><br/>
-      <strong><a href="#">Xingwen Liu<br/>Yu Bai</a></strong><br/>
-       Professor in   Southwest Minzu Universityt<br/>
-      Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
-    </td>
-    <td align="center" width="180">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png" width="100"/><br/>
-      <strong><a href="#">Tingjin Liu<br/>Yan Zhuang</a></strong><br/>
-      PH.D. student in  Dalian University of Technology<br/>
-      Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
-    <td align="center" width="180">
-      <img src="kaixie.png" width="100"/><br/>
-      <strong><a href="#">Yaojun Liu<br/>Ruichang Zhang</a></strong><br/>
-      PH.D. student in  Dalian University of Technology<br/>
-      Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
-    </td>
-  </tr>
-</table>
-
-
 <table>
   <tr>
     <!-- Attila Szolnoki -->
@@ -127,8 +94,6 @@ Centre for Energy Researcht<br/>
       Centre for Energy Research<br/>
       Research directions: Evolutionary games, complex networks, nonlinear dynamics
     </td>
-
-    <!-- Xingwen Liu -->
     <td align="center" width="250">
       <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/7b289899c24ad28377930c29685e8a4b1dba417c/images/Xingwen%20Liu.png?raw=true" width="100"/><br/>
       <strong><a href="#">Xingwen Liu</a></strong><br/>
@@ -137,7 +102,6 @@ Centre for Energy Researcht<br/>
       intelligent control, robust control, and games
     </td>
   </tr>
-
   <tr>
     <!-- Tingjin Liu -->
     <td align="center" width="250">
@@ -147,8 +111,6 @@ Centre for Energy Researcht<br/>
       Research directions: Complex systems, multi-agent systems,<br/>
       intelligent control, robust control, and games
     </td>
-
-    <!-- Yaojun Liu -->
     <td align="center" width="250">
       <img src="kaixie.png" width="100"/><br/>
       <strong><a href="#">Yaojun Liu</a></strong><br/>
