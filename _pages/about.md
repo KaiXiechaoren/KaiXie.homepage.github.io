@@ -61,15 +61,15 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 
 # 📄 Reviewer 
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (JCR:Q1, CAS Tier 1)
-	- Chaos, Solitons and Fractals  (JCR:Q1, CAS Tier 1)
-	- Chaos  (JCR:Q1, CAS Tier 2)
-	- Applied Mathematics and Computation  (JCR:Q1, CAS Tier 2)
-- 	Nonlinear Dynamics  (JCR:Q1, CAS Tier 2)
-	- Physica A-Statistical Mechanics and Its Applications  (JCR:Q2, CAS Tier 2)
+- Chaos, Solitons and Fractals  (JCR:Q1, CAS Tier 1)
+- Chaos  (JCR:Q1, CAS Tier 2)
+- Applied Mathematics and Computation  (JCR:Q1, CAS Tier 2)
+- Nonlinear Dynamics  (JCR:Q1, CAS Tier 2)
+- Physica A-Statistical Mechanics and Its Applications  (JCR:Q2, CAS Tier 2)
 - Physics Letters A  (JCR:Q2, CAS Tier 3)
-- 	Frontiers in Sustainable Food Systems, section Agricultural and Food Economics  (JCR:Q2, CAS Tier 3)
-- 	Scientific Reports  (JCR:Q2, CAS Tier 3)
-- 	Current Neuropharmacology (JCR:Q2, CAS Tier 3)
+- Frontiers in Sustainable Food Systems, section Agricultural and Food Economics  (JCR:Q2, CAS Tier 3)
+- Scientific Reports  (JCR:Q2, CAS Tier 3)
+- Current Neuropharmacology (JCR:Q2, CAS Tier 3)
 
 
 # 🎖 Honors and Awards
@@ -77,16 +77,15 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 - *2023.06* 🎓Outstanding graduate student, Southwest Minzu University (100 annually).
 - *2023-2020*  🎓First-class Academic Scholarship of the university, Southwest Minzu University (awarded annually).
 - *2022.11*  🎓National Scholarship, The Ministry of Education of the People's Republic of China.
-- - *2022.12* 🥈Bronze Award, The 8th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Guangxi Province Division)
+- *2022.12* 🥈Bronze Award, The 8th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Guangxi Province Division)
 - *2021.12* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division))
   
 # 📖 Educations
 - *2024.09 -  Present, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
-- *2020.09 - 2023.06, Master. in Electronic Information, Southwest Minzu University, Chengdu, China, Supervisor: [Prof. Xingwen Liu]([https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en](https://cee.swun.edu.cn/info/1119/2760.htm))
+- *2020.09 - 2023.06, Master. in Electronic Information, Southwest Minzu University, Chengdu, China, Supervisor: [Prof. Xingwen Liu](https://cee.swun.edu.cn/info/1119/2760.htm)
 
-# 💬 Invited Talks
+# 💬 Main research cooperator
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
