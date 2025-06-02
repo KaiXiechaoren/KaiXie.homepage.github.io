@@ -88,20 +88,20 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 <table>
   <tr>
     <td align="center" width="180">
-      <img src="头像URL1.jpg" width="100"/><br/>
+      <img src="Attila.png" width="100"/><br/>
       <strong><a href="#">Attila Szolnoki</a></strong><br/>
       Professor in   Institute Of Technical Physics and Materials Science
 Centre for Energy Researcht<br/>
       Research directions: Evolutionary games, complex networks, nonlinear dynamics<br/>
     </td>
     <td align="center" width="180">
-      <img src="头像URL2.jpg" width="100"/><br/>
+      <img src="Xingwen Liu.png" width="100"/><br/>
       <strong><a href="#">Xingwen Liu<br/>Yu Bai</a></strong><br/>
        Professor in   Southwest Minzu Universityt<br/>
       Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
     </td>
     <td align="center" width="180">
-      <img src="头像URL3.jpg" width="100"/><br/>
+      <img src="Tingjin Liu.png" width="100"/><br/>
       <strong><a href="#">Tingjin Liu<br/>Yan Zhuang</a></strong><br/>
       PH.D. student in  Dalian University of Technology<br/>
       Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
