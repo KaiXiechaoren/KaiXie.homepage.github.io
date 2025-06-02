@@ -25,8 +25,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Our paper **"Reputation in public goods cooperation under double Q-learning protocol"** has been accepted by Chaos, Solitons and Fractals (🏆 **Top Journal, CAS Tier 1**)
+- *2025.04*:  Upon receiving an invitation from the China Association for Science and Technology, the [popular science article](https://mp.weixin.qq.com/s/y5dnzMo3bmut-vQn9TrODA) I wrote was published on the relevant wechat official account.
+
 
 # 📝 Publications 
 
