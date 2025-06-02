@@ -75,8 +75,8 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 - *2023.06* 🎓Outstanding graduate student, Southwest Minzu University (100 annually).
 - *2023-2020*  🎓First-class Academic Scholarship of the university, Southwest Minzu University (awarded annually).
 - *2022.11*  🎓National Scholarship, The Ministry of Education of the People's Republic of China.
-- *2022.12* 🥈Bronze Award, The 8th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Guangxi Province Division)
-- *2021.12* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division))
+- *2022.12* 🥈Bronze Award, The 8th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Guangxi Province Division).
+- *2021.12* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division)).
   
 # 📖 Educations
 - *2024.09 -  Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
@@ -94,41 +94,24 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 Centre for Energy Researcht<br/>
       Research directions: Evolutionary games, complex networks, nonlinear dynamics<br/>
     </td>
+     </tr>
+  <tr>
     <td align="center" width="180">
-      <img src="Xingwen Liu.png" width="100"/><br/>
+      <img src="Liu.png]https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/7b289899c24ad28377930c29685e8a4b1dba417c/images/Xingwen%20Liu.png" width="100"/><br/>
       <strong><a href="#">Xingwen Liu<br/>Yu Bai</a></strong><br/>
        Professor in   Southwest Minzu Universityt<br/>
       Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
     </td>
     <td align="center" width="180">
-      <img src="Tingjin Liu.png" width="100"/><br/>
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png" width="100"/><br/>
       <strong><a href="#">Tingjin Liu<br/>Yan Zhuang</a></strong><br/>
       PH.D. student in  Dalian University of Technology<br/>
       Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="180">
       <img src="kaixie.png" width="100"/><br/>
       <strong><a href="#">Yaojun Liu<br/>Ruichang Zhang</a></strong><br/>
       PH.D. student in  Dalian University of Technology<br/>
       Research directions: Complex systems, multi-agent systems, intelligent control, robust control and games<br/>
-    </td>
-    <td align="center" width="180">
-      <img src="kaixie.png" width="100"/><br/>
-      <strong><a href="#">李金豪<br/>Jinhao Li</a></strong><br/>
-      2022级本科毕业生<br/>
-      Undergraduate Graduate<br/>
-      曼彻斯特大学在读博士<br/>
-      Ph.D. student in University of Manchester
-    </td>
-    <td align="center" width="180">
-      <img src="kaixie.png" width="100"/><br/>
-      <strong><a href="#">黄承浩<br/>Chenghao Huang</a></strong><br/>
-      2023级硕士毕业生<br/>
-      Graduated Master Student<br/>
-      莫纳什大学在读博士<br/>
-      Ph.D. student in Monash University
     </td>
   </tr>
 </table>
