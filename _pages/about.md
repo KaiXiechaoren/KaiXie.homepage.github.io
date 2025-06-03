@@ -23,26 +23,26 @@ My research interests fall into two main areas. The first is evolutionary game t
 
 
 
-# 🔍 Research interests
-### Ph.D. project-Application of AI in electricity market 
+# 🔍 Research areas
+### 🎯Ph.D. project-Application of AI in electricity market 
 
-It is application-oriented, mainly using various AI methods to handle prediction and decision-making problems in the electricity market.
+An application-driven project focused on using AI techniques to solve prediction and decision-making challenges in electricity markets.
 
 **Key topics include:**
-- Time series forecasting for electricity prices
+- ⚡Time series forecasting for electricity prices
   
-- Trading decision using reinforcement learning and large language models (LLMs)
+-🤖 Trading decision using reinforcement learning and large language models
 
 ### The other research interest-Mechanism design for promoting cooperation in evolutionary game theory  
  
-It leans towards theory, mainly using mathematical methods to describe and simulate group games, and is also committed to the research on interpretability based on reinforcement learning.
+A theory-oriented line of research aiming to design cooperation-promoting mechanisms using mathematical modeling and reinforcement learning.
 
 **Key topics include:**
-- Population-level game simulation and strategy evolution
+- 🧬Population-level game simulation and strategy evolution
   
-- Stability analysis based on control theory
+- 🔧Stability analysis based on control theory
   
-- Interpretable reinforcement learning models for understanding strategic behavior
+- 🔍Interpretable reinforcement learning for strategic behavior
 
 
 # 🔥 News
@@ -80,7 +80,7 @@ It leans towards theory, mainly using mathematical methods to describe and simul
 - *2021.12* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division)).
   
 # 📖 Educations
-- *2024.09 -  Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
+- *2024.09 -  Present*, Ph.D. student in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
 - *2020.09 - 2023.06*, Master. in Electronic Information, Southwest Minzu University, Chengdu, China, Supervisor: [Prof. Xingwen Liu](https://cee.swun.edu.cn/info/1119/2760.htm)
 
 # 💬 Main research cooperator
@@ -113,7 +113,7 @@ It leans towards theory, mainly using mathematical methods to describe and simul
     </td>
     <!-- Yaojun Liu -->
     <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/main/images/kaixie.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <img src="" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
       <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
       <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
