@@ -34,7 +34,7 @@ An application-driven project focused on using AI techniques to solve prediction
   
 - 🤖Trading decision using reinforcement learning and large language models
 
-### The other research interest-Mechanism design in evolutionary game theory
+### 🧠The other research interest-Mechanism design in evolutionary game theory
  
 A theory-oriented line of research aiming to design cooperation-promoting mechanisms using mathematical modeling and reinforcement learning.
 
