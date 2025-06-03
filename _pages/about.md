@@ -111,14 +111,14 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
       <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
       <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Tingjin Liu</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
-      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: switched systems，optimal control</span>
+      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Switched systems，optimal control</span>
     </td>
     <!-- Yaojun Liu -->
     <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/ddd806d512ad52d4d451d0703dd0768ffd9ef014/images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
       <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
-      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
+      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Cooperation behavior within the evolutionary game framework on networks, the fault-tolerant online bin packing problem</span>
     </td>
   </tr>
 </table>
