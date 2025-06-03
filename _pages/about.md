@@ -85,7 +85,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 - *2024.09 -  Present*, Ph.D. student in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
 - *2020.09 - 2023.06*, Master. in Electronic Information, Southwest Minzu University, Chengdu, China, Supervisor: [Prof. Xingwen Liu](https://cee.swun.edu.cn/info/1119/2760.htm)
 
-# 💬 Main research cooperator
+# 🤝 Main research cooperator
 
 <table style="border-collapse: separate; border-spacing: 20px; margin: 0 auto;">
   <tr>
