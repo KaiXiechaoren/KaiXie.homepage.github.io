@@ -47,6 +47,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 
 # 🔥 News
+- *2025.06*:  Our paper **""** has received minor revision by Physica A: Statistical Mechanics and its Applications (CAS Tier 2)
 - *2025.04*:  Upon receiving an invitation from the China Association for Science and Technology, the [popular science article](https://mp.weixin.qq.com/s/y5dnzMo3bmut-vQn9TrODA) I wrote was published on the relevant wechat official account.
 - *2025.04*: &nbsp;🎉🎉 Our paper **"Reputation in public goods cooperation under double Q-learning protocol"** has been accepted by Chaos, Solitons and Fractals (🏆 **Top Journal, CAS Tier 1**)
 
@@ -116,7 +117,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
      <!-- Yaojun Liu -->
     <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
       <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/8bbc645890fa24727ad3b96d7867cb99cb242622/images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Tingjin Liu</a></strong><br/>
+      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
       <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Cooperation behavior within the evolutionary game framework on networks, the fault-tolerant online bin packing problem</span>
     </td>
